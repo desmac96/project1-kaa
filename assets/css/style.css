@@ -77,3 +77,18 @@ h1 {
 
     position: absolute;
 }
+
+#about-us {
+    height: 500px;
+   
+}
+
+#sign-up {
+    height: 500px;
+    background-color: black;
+    width: 50%;
+    background-image: url(../css/images/pexels-isabella-mendes-860707.jpg);
+    background-repeat: no;
+    background-size: 100%;
+}
+
