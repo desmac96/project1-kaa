@@ -8,5 +8,28 @@
 body {
     font-family: Karla, sans-serif;
     font-weight: 300px;
+}
+
+
+#logo {
+    float: left;
+    font-size: 250%;
+    margin-left: 40px;
+}
+
+h1 {
+    font-family: Rubik, sans-serif;
+    letter-spacing: 2px;
    
+}
+
+#menu {
+    font-size: 200%;
+    letter-spacing: 2px;
+}
+
+#menu, li {
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
 }
