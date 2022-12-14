@@ -15,11 +15,13 @@ body {
     float: left;
     font-size: 250%;
     margin-left: 40px;
+    line-height: 80px;
 }
 
 h1 {
     font-family: Rubik, sans-serif;
     letter-spacing: 2px;
+    line-height: 80px;
    
 }
 
@@ -28,8 +30,26 @@ h1 {
     letter-spacing: 2px;
 }
 
+#menu, #logo {
+    line-height: 80px;
+}
+
 #menu, li {
     float: right;
     list-style-type: none;
     margin-right: 40px;
+}
+
+#menu, a {
+    text-decoration: none;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid;
+}
+
+#hero-image {
+    height:600px;
+    width: 100%;
+    background-image: url(../css/images/pexels-bence-szemerey-6782327.jpg) ;
 }
