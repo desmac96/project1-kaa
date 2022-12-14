@@ -16,6 +16,7 @@ body {
     font-size: 250%;
     margin-left: 40px;
     line-height: 80px;
+    color: white;
 }
 
 h1 {
@@ -28,6 +29,7 @@ h1 {
 #menu {
     font-size: 200%;
     letter-spacing: 2px;
+    color: white;
 }
 
 #menu, #logo {
@@ -38,10 +40,12 @@ h1 {
     float: right;
     list-style-type: none;
     margin-right: 40px;
+    color: white;
 }
 
 #menu, a {
     text-decoration: none;
+    color: white;
 }
 
 #menu a:hover {
@@ -49,7 +53,9 @@ h1 {
 }
 
 #hero-image {
-    height:600px;
+    height:1000px;
     width: 100%;
     background-image: url(../css/images/pexels-bence-szemerey-6782327.jpg) ;
+    background-repeat: no;
+    background-size: 100%;
 }
