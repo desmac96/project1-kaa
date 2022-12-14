@@ -80,15 +80,24 @@ h1 {
 
 #about-us {
     height: 500px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 200%;
+    margin-left: 10%;
+    margin-right: 10%;
    
+}
+
+#about-us, h2 {
+    font-family: Rubik, sans-serif;
+    font-size: 300%;
 }
 
 #sign-up {
     height: 500px;
     background-color: black;
-    width: 50%;
-    background-image: url(../css/images/pexels-isabella-mendes-860707.jpg);
-    background-repeat: no;
-    background-size: 100%;
 }
-
+ 
+#paragraph {
+    padding-top: 10%;
+}
