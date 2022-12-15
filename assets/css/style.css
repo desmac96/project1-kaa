@@ -91,25 +91,57 @@ h1 {
     font-size: 300%;
 }
 
-.sign-up-form {
-width: 300px;
-}
+
 
 #sign-up {
-    height: 500px;
+    height: 600px;
+    font-size: 200%;
     background-color: black;
-    color: white;
+   
     text-align: center;
 
 }
 
-#sign-up, h1 {
-    color: white;
+.input-box {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    border: 1px solid #999;
+     outline: none;
+}
 
+
+
+
+#sign-up, h1 {
+    
+
+}
+
+.sign-up-form {
+    width: 500px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
 }
 
 
  
 #paragraph {
     padding-top: 10%;
+}
+
+button {
+    color: black
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 100%;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor:  pointer;
 }
