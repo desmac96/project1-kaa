@@ -135,7 +135,7 @@ h1 {
 }
 
 button {
-    color: black
+    color: black;
     width: 100%;
     padding: 10px;
     border-radius: 20px;
@@ -144,4 +144,8 @@ button {
     border: none;
     outline: none;
     cursor:  pointer;
+}
+
+footer {
+    color: black;
 }
