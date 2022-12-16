@@ -16,7 +16,7 @@ body {
     font-size: 250%;
     margin-left: 40px;
     line-height: 80px;
-    color: black'
+    color: white
 }
 
 h1 {
@@ -43,12 +43,11 @@ nav {
     float: right;
     list-style-type: none;
     margin-right: 40px;
-    color: white;
 }
 
 #menu, a {
     text-decoration: none;
-    color: black;
+    color: white
 }
 
 #menu a:hover {
@@ -69,20 +68,17 @@ nav {
 #cover-text, #cover-text h2 {
     text-align: center;
     font-family: Rubik, sans-serif;
-    font-size: 700%;
+    font-size: 600%;
     letter-spacing: 2px;
     margin-top: 10%;
     width: 1200px;
     height: 800px;
     color: white;
-    padding-top: 40px;
-    padding-left: 10px;
     background-color: rgba(black, black, black, .7);
     position: absolute;
 }
 
 #about-us {
-    height: 500px;
     text-align: center;
     margin-top: 50px;
     font-size: 200%;
@@ -101,7 +97,7 @@ nav {
 
 
 #sign-up {
-    height: 600px;
+   
     font-size: 200%;
     background-color: black;
    
@@ -118,14 +114,6 @@ nav {
      outline: none;
 }
 
-
-
-
-#sign-up, h1 {
-    
-
-}
-
 .sign-up-form {
     width: 500px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
@@ -136,10 +124,7 @@ nav {
 }
 
 
- 
-#paragraph {
-    padding-top: 10%;
-}
+
 
 button {
     color: black;
@@ -154,7 +139,7 @@ button {
 }
 
 footer {
-height: 250px;
+background-color: black;
 }
 
 .social-networks {
