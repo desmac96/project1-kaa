@@ -88,7 +88,7 @@ nav {
    
 }
 
-#about-us, h2 {
+#about-us {
     font-family: Rubik, sans-serif;
     font-size: 300%;
     margin: 1%;
@@ -101,9 +101,7 @@ nav {
    
     font-size: 200%;
     background-color: black;
-   
-    text-align: center;
-
+   text-align: center;
 }
 
 .input-box {
@@ -116,7 +114,7 @@ nav {
 }
 
 .sign-up-form {
-    width: 500px;
+    width: 50%;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #fff;
     padding: 20px;
@@ -129,7 +127,7 @@ nav {
 
 button {
     color: black;
-    width: 100%;
+    width: 50%;
     padding: 10px;
     border-radius: 20px;
     font-size: 100%;
@@ -149,4 +147,52 @@ background-color: black;
     text-align: center;
     margin: 1%;
     padding: 5%;
+}
+
+@media screen and (max-width: 950px) {
+
+#logo {
+    font-size: 140%;
+    
+    margin-bottom: 0;
+}
+
+#hero-image {
+    height: 250px;
+}
+
+#cover-text {
+    font-size: 150%;
+    width: 250px;
+    height: 50%;
+    margin-left: 20%;
+    margin-top: 30%;
+}
+
+#menu {
+    text-align: center;
+    font-size: 100%;
+    line-height: 5px;
+    margin-right: 0%;
+    margin: 0%;
+}
+
+
+#about-us {
+    font-size: 100%;
+}
+
+#sign-up {
+    font-size: 80%;
+    margin: 5%;
+}
+
+.input-box{
+    margin: 5%;
+}
+
+.social-networks {
+font-size: 100%;
+}
+
 }
