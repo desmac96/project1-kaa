@@ -62,4 +62,14 @@ As a frequent user I would like to be able to click a link that brings me direct
 <li>
 As a frequent user I'd like to be inspired by the hero image.
 </li>
-</section
+</section>
+<h2>Design</h2>
+<ul><h3>Colour Scheme</h3></ul>
+<li>The two main colours used are black and white. They work well with the colours in the hero image.</li>
+<ul><h3>Typography</h3></ul>
+<li>The two fonts used in this website are Rubik and Karla. They were imported through font awesome. They are quite similar so they work well together. Their style suits the kind of website Kingdom Audio Academy needed. Sans Serif is the fallback incase for any reason that the font is'nt being imported into the site correctly.
+</li>
+<ul>Imagery</ul>
+<li>
+
+</li>
