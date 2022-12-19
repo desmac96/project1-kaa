@@ -28,3 +28,38 @@ This section is the key section of the website. Users can sign up for courses by
 <p>
 The footer section includes external links to Kingdom Audio Academies Facebook and Instagram pages. These links open up in a new tab. Also the companies email address and mobile phone number are in the footer. Finally their is an external link to the location of the studios on Google Maps. The footer is valuable to the user as it encourages them to follow the social media accounts and also gives them essential contact details and the studios location.
 </p>
+<h2>Visitor Goals (UX)</h2>
+<section>
+<ul><h3>First Time Visitor Goals</h3></ul>
+<li>
+As a first time visitor I'd like to easily understand the main purpose of the website and I'd also like to know what services are being offered.
+</li>
+<li>
+As a first time visitor I'd like to be able to easily navigate through the website. Being able to jump to each section with one click.
+</li>
+<li>
+As a first time visitor I'd like to be able to sign up for thecourse if I am interested in the service.
+</li>
+<ul><h3>Returning Visitor Goals</h3></ul> 
+<li>
+As a returning visitor I want to see all the necessary contact details.
+</li>
+<li>
+As a returning visitor I want to find out what location the courses will be set in.
+</li>
+<li>
+As a returning visitor I want to be able to sign up for the course if I have decided to join the academy.
+</li>
+<ul>
+<h3>Frequent User Goals</h3>
+</ul>
+<li>
+As a frequent user I would like to be able to sign up for the course so that I receive emails about upcoming courses and offers.
+</li>
+<li>
+As a frequent user I would like to be able to click a link that brings me directly to Kingdom Audio Academies social media accounts.
+</li>
+<li>
+As a frequent user I'd like to be inspired by the hero image.
+</li>
+</section
