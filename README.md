@@ -3,7 +3,7 @@
 <p>
 The Kingdom Audio Academy website is aimed at people of all ages interested in learning how to D.J. The website also offers lessons in Electronic Music Production. The website provides information about courses and about the studios. To sign up for courses you need to provide details including your full name, email address and mobile phone number. When signing up you are given the option of signing up for the newsletter also by clicking on the checkbox provided. The website also provides external links to Kingdom Audio Academies Instagram and Facebook pages. Essential contact details are also provided in the footer. Finally their is an external link to the studios location.
 </p>
-![images](D7C5862F-3C1B-48B2-8B3F-4CF9C2C9D2B7.jpeg)
+[my image] (https://github.com/desmac96/project1-kaa/blob/main/D7C5862F-3C1B-48B2-8B3F-4CF9C2C9D2B7.jpeg)
 <br>
 <h2>Existing Features</h2>
 <h3>Logo</h3>
@@ -89,3 +89,19 @@ Font Awesome was used throughout the website to add icons for aesthetic and UX p
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.</li>
 <li>GitHub:
 GitHub is used to store the projects code after being pushed from Git.</li>
+<h2>Testing</h2>
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+<h3>Testing User Stories from User Experience (UX) Section</h3>
+<h4>First Time Visitor Goals</h4>
+<ul>As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about what services are being offered.</ul>
+<li>Upon entering the site the user is greeted with an easily readable navigation bar that links you to each section of the page</li>
+<li>Immediately you learn what sevices are being offered</li>
+<li>The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the services being offered by Kingdom Audio Academy.</li>
+<ul>As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.</ul>
+<li>The site has been designed small so the user doesnt get distracted. Once they have red the about us section the only thing to do next is sign up.</li>
+<li>At the bottom of the page their is links to the Instagram and Facebook accounts to entice the user to follow Kingom Audio Academy. </li>
+<h4>Returning Visitor Goals</h4>
+<ul>As a returning visitor I want to be inspired to join the school.</ul>
+<li>Returning visitors are greeted with a striking hero image that shows a D.J playing to. a massive crowd. This image inspires people to take the course giving them the impression that that could be them upon completing the course.</li>
+<li>Returning visitors can easily join the school by filling </li>
+
