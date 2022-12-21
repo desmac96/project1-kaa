@@ -4,7 +4,9 @@
 The Kingdom Audio Academy website is aimed at people of all ages interested in learning how to D.J. The website also offers lessons in Electronic Music Production. The website provides information about courses and about the studios. To sign up for courses you need to provide details including your full name, email address and mobile phone number. When signing up you are given the option of signing up for the newsletter also by clicking on the checkbox provided. The website also provides external links to Kingdom Audio Academies Instagram and Facebook pages. Essential contact details are also provided in the footer. Finally their is an external link to the studios location.
 </p>
 
-![D7C5862F-3C1B-48B2-8B3F-4CF9C2C9D2B7.jpeg](assets/css/images/D7C5862F-3C1B-48B2-8B3F-4CF9C2C9D2B7.jpeg)
+
+![amiresponsive](assets/css/images/E2E1D302-FCD8-4381-948B-3112AB834453.jpeg/)
+
 <br>
 <h2>Existing Features</h2>
 <h3>Logo</h3>
@@ -101,8 +103,5 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 <ul>As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.</ul>
 <li>The site has been designed small so the user doesnt get distracted. Once they have red the about us section the only thing to do next is sign up.</li>
 <li>At the bottom of the page their is links to the Instagram and Facebook accounts to entice the user to follow Kingom Audio Academy. </li>
-<h4>Returning Visitor Goals</h4>
-<ul>As a returning visitor I want to be inspired to join the school.</ul>
-<li>Returning visitors are greeted with a striking hero image that shows a D.J playing to. a massive crowd. This image inspires people to take the course giving them the impression that that could be them upon completing the course.</li>
-<li>Returning visitors can easily join the school by filling </li>
+
 
