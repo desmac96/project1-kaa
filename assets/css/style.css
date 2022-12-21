@@ -78,7 +78,6 @@ a {
     width: 1200px;
     height: 800px;
     color: white;
-    background-color: rgba(black, black, black, .7);
     position: absolute;
 }
 
@@ -101,7 +100,6 @@ a {
 
 
 #sign-up {
-
     font-size: 200%;
     background-color: black;
     text-align: center;
@@ -114,7 +112,6 @@ a {
     width: 100%;
     border: 1px solid #999;
     outline: none;
-
 }
 
 .sign-up-form {
@@ -157,7 +154,6 @@ footer {
 
     #logo {
         font-size: 140%;
-
         margin-bottom: 0;
     }
 
@@ -206,7 +202,6 @@ footer {
 
     #logo {
         font-size: 120%;
-
         margin-bottom: 0;
     }
 
@@ -216,8 +211,6 @@ footer {
         width: 500px;
         margin-top: 20%;
         margin-left: 10%;
-
-
     }
 
     #hero-image {
@@ -227,14 +220,12 @@ footer {
 
     #menu {
         font-size: 90%;
-
     }
 }
 
 @media screen and (min-width: 200px) and (max-width: 379px) {
     #logo {
         font-size: 100%;
-
         margin-bottom: 0;
     }
 
@@ -251,8 +242,7 @@ footer {
     }
 
     #menu {
-        text-align: center;
-        font-size: 60%;
+        font-size: 55%;
         line-height: 0.5px;
         margin-right: 0%;
         margin: 0%;
