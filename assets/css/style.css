@@ -5,6 +5,7 @@
     padding: 0;
     border: none;
 }
+
 body {
     font-family: Karla, sans-serif;
     font-weight: 300px;
@@ -24,7 +25,7 @@ h1 {
     font-family: Rubik, sans-serif;
     letter-spacing: 2px;
     line-height: 80px;
-   
+
 }
 
 #menu {
@@ -36,17 +37,20 @@ nav {
     background-color: #fff;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 80px;
 }
 
-#menu, li {
+#menu,
+li {
     float: right;
     list-style-type: none;
     margin-right: 40px;
 }
 
-#menu, a {
+#menu,
+a {
     text-decoration: none;
     color: white
 }
@@ -57,13 +61,14 @@ nav {
 
 #hero-image {
     text-align: center;
-    height:1000px;
-    background-image: url(../css/images/pexels-bence-szemerey-6782327.jpg) ;
+    height: 1000px;
+    background-image: url(../css/images/pexels-bence-szemerey-6782327.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
-#cover-text, #cover-text h2 {
+#cover-text,
+#cover-text h2 {
     text-align: center;
     font-family: Rubik, sans-serif;
     font-size: 600%;
@@ -83,7 +88,7 @@ nav {
     font-size: 200%;
     margin-left: 10%;
     margin-right: 10%;
-   
+
 }
 
 #about-us {
@@ -96,19 +101,20 @@ nav {
 
 
 #sign-up {
-   
+
     font-size: 200%;
     background-color: black;
-   text-align: center;
+    text-align: center;
 }
 
 .input-box {
-    border-radius: 20px;
+    border-radius: 100px;
     padding: 10px;
     margin: 10px;
     width: 100%;
     border: 1px solid #999;
-     outline: none;
+    outline: none;
+
 }
 
 .sign-up-form {
@@ -132,11 +138,11 @@ button {
     margin: 10px 0;
     border: none;
     outline: none;
-    cursor:  pointer;
+    cursor: pointer;
 }
 
 footer {
-background-color: black;
+    background-color: black;
 }
 
 .social-networks {
@@ -147,71 +153,71 @@ background-color: black;
     padding: 5%;
 }
 
-@media screen and (max-width: 440px) {
-
-#logo {
-    font-size: 140%;
-    
-    margin-bottom: 0;
-}
-
-#hero-image {
-    height: 250px;
-}
-
-#cover-text {
-    font-size: 150%;
-    width: 250px;
-    height: 50%;
-    margin-left: 20%;
-    margin-top: 30%;
-}
-
-#menu {
-    text-align: center;
-    font-size: 100%;
-    line-height: 5px;
-    margin-right: 0%;
-    margin: 0%;
-}
-
-
-#about-us {
-    font-size: 100%;
-}
-
-#sign-up {
-    font-size: 80%;
-    margin: 5%;
-}
-
-.input-box{
-    margin: 5%;
-}
-
-.social-networks {
-font-size: 100%;
-}
-
-}
-
-
-@media screen and ( max-width: 1200px) {
+@media screen and (min-width: 380px) and (max-width: 440px) {
 
     #logo {
         font-size: 140%;
-        
+
+        margin-bottom: 0;
+    }
+
+    #hero-image {
+        height: 250px;
+    }
+
+    #cover-text {
+        font-size: 150%;
+        width: 250px;
+        height: 50%;
+        margin-left: 20%;
+        margin-top: 30%;
+    }
+
+    #menu {
+        text-align: center;
+        font-size: 100%;
+        line-height: 5px;
+        margin-right: 0%;
+        margin: 0%;
+    }
+
+
+    #about-us {
+        font-size: 100%;
+    }
+
+    #sign-up {
+        font-size: 80%;
+        margin: 5%;
+    }
+
+    .input-box {
+        margin: 5%;
+    }
+
+    .social-networks {
+        font-size: 100%;
+    }
+
+}
+
+
+@media screen and (min-width: 441px) and (max-width: 1200px) {
+
+    #logo {
+        font-size: 140%;
+
         margin-bottom: 0;
     }
 
     #cover-text {
         font-size: 300%;
-       text-align: center;
-       width: 500px;
+        text-align: center;
+        width: 500px;
         margin-top: 20%;
         margin-left: 10%;
- 
-    
+
+
     }
 
     #hero-image {
@@ -221,7 +227,53 @@ font-size: 100%;
 
     #menu {
         font-size: 100%;
-     
-    }  
+
+    }
 }
 
+@media screen and (min-width: 200px) and (max-width: 379px) {
+    #logo {
+        font-size: 100%;
+
+        margin-bottom: 0;
+    }
+
+    #hero-image {
+        height: 200px;
+    }
+
+    #cover-text {
+        font-size: 100%;
+        width: 250px;
+        height: 50%;
+        margin-left: 10%;
+        margin-top: 35%;
+    }
+
+    #menu {
+        text-align: center;
+        font-size: 65%;
+        line-height: 0.5px;
+        margin-right: 0%;
+        margin: 0%;
+    }
+
+
+    #about-us {
+        font-size: 80%;
+    }
+
+    #sign-up {
+        font-size: 60%;
+        margin: 5%;
+    }
+
+    .input-box {
+        margin: 5%;
+    }
+
+    .social-networks {
+        font-size: 80%;
+    }
+
+}
