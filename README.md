@@ -5,7 +5,7 @@ The Kingdom Audio Academy website is aimed at people of all ages interested in l
 </p>
 
 
-![amiresponsive](assets/css/images/E2E1D302-FCD8-4381-948B-3112AB834453.jpeg/)
+![amiresponsive](assets/css/images/E2E1D302-FCD8-4381-948B-3112AB834453.jpeg)
 
 <br>
 <h2>Existing Features</h2>
@@ -94,6 +94,9 @@ Git was used for version control by utilizing the Gitpod terminal to commit to G
 GitHub is used to store the projects code after being pushed from Git.</li>
 <h2>Testing</h2>
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+![W3C](assets/css/images/53FE56A6-8C95-4ACD-AD6D-91A3B259110B_1_105_c.jpeg)
+
 <h3>Testing User Stories from User Experience (UX) Section</h3>
 <h4>First Time Visitor Goals</h4>
 <ul>As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about what services are being offered.</ul>
@@ -152,4 +155,16 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY</li>
 <ul>> remote: Compressing objects: 100% (8/8), done. </ul>
 <ul>> remove: Total 10 (delta 1), reused 10 (delta 1)</ul>
 <ul>> Unpacking objects: 100% (10/10), done.</ul>
+<h2>Credits</h2>
+<h3>Code</h3>
+<li>I used the Love Running project as a guide. </li>
+<li>I watched this Youtube video for inspiration before building my sign. up form https://www.youtube.com/watch?v=lacpTQuE9u8 </li>
+<h3>Content</h3>
+<li>All content was written by the developer.</li>
+<h3>Media</h3>
+<li>The hero image was downloaded from pexels. </li>
+<h3>Acknowledgements</h3>
+<li>My mentor for continuous helpful feedback. </li>
+<li>Tutor support at Code Institute for their support</li> 
+
 
