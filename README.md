@@ -103,5 +103,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 <ul>As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.</ul>
 <li>The site has been designed small so the user doesnt get distracted. Once they have red the about us section the only thing to do next is sign up.</li>
 <li>At the bottom of the page their is links to the Instagram and Facebook accounts to entice the user to follow Kingom Audio Academy. </li>
+<h4>Returning Visitor Goals</h4>
+<ul>As a returning visitor I  want to find the best ways to contact Kingdom Audio Academy</ul>
+<li>The navigation bar clearly highlights the "Contact Us" Page.
+<li>The footer contains links to the organisations Facebook and Instagram page as well as the organization's email.</li>
+<li>The footer also contains the location of the studio and the companies mobile phone number.</li>
+<li>Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.</li>
+<h4>Frequent User Goals</h4>
+<ul>As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organization.
+<li>At the bottom of the form their is a clickable checkbox. Ticking this checkbox signs the user up for the newsletter.</li>
+<li>There is a "Sign Up" button at the bottom of the form. Clicking this button after ticking the checkbox signs the user up for the newsletter.</li>
 
 
