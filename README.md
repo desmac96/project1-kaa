@@ -113,5 +113,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 <ul>As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organization.
 <li>At the bottom of the form their is a clickable checkbox. Ticking this checkbox signs the user up for the newsletter.</li>
 <li>There is a "Sign Up" button at the bottom of the form. Clicking this button after ticking the checkbox signs the user up for the newsletter.</li>
+<h3>Further Testing</h3>
+<li>The website was tested on Google Chrome, Internet Explorer, Microshift Edge and Safari browsers.</li>
+<li>The website was viewed on a variety of devices such ad Desktop, laptop, tablets and mobile phones.</li>
+<li>A large amount of testing was done to make sure all links are working correctly.</li>
+<li>Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.</li>
+<h3>Known Bugs</h3>
+
+
+
 
 
