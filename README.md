@@ -93,9 +93,13 @@ Git was used for version control by utilizing the Gitpod terminal to commit to G
 <li>GitHub:
 GitHub is used to store the projects code after being pushed from Git.</li>
 <h2>Testing</h2>
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+<li>The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. </li>
 
-![W3C](assets/css/images/53FE56A6-8C95-4ACD-AD6D-91A3B259110B_1_105_c.jpeg)
+![53FE56A6-8C9F-4ACD-AD6D-91A3B259110B_1_105_c](assets/css/images/53FE56A6-8C9F-4ACD-AD6D-91A3B259110B_1_105_c.jpeg)
+
+<li>The site was also tested using devtools Lighthouse. Here are the results <li>
+
+![Lighthouse](assets/css/images/C65FC0E8-46E7-441D-9F62-5D920009619A.jpeg)
 
 <h3>Testing User Stories from User Experience (UX) Section</h3>
 <h4>First Time Visitor Goals</h4>
