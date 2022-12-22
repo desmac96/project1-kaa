@@ -119,8 +119,37 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 <li>A large amount of testing was done to make sure all links are working correctly.</li>
 <li>Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.</li>
 <h3>Known Bugs</h3>
+<li>Originally I had planned to have the footer section in white. After struggling to change the text color to black for the footer section I decided to keep the footer section black with white text and to put the form within the section above it white, to break the page up.  </li>
+<li>On mobile phone sizes the sign up section of the navigation bar is slightly less visible.</li
 
+<h2>Deployment</h2>
+<h3>GitHub Pages</h3>
+<ul>The project was deployed to GitHub Pages using the following steps...<ul>
+<li>1.  Log in to GitHub and locate the GitHub Repository</li>
+<li>2.  At the top of the Repository (not top of the page), locate the "Settings" Button on the menu.</li>
+<li>3.  Scroll down the Settings page until you locate the "GitHub Pages" Section.</li>
+<li>4.  Under "Source", click the dropdown called "None" and select "Master Branch"</li>
+<li>5.  The page will automatically refresh.</li>
+<li>6.  Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.</li>
+<h3>Forking the GitHub Repository</h3>
+<ul>By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...</ul>
+<li>1.  Log in to GitHub and locate the GitHub Repository</li>
+<li>2.  At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.</li>
+<li>3.  You should now have a copy of the original repository in your GitHub account.</li>
+<h3>Making a Local Clone</h3>
+<li>1.  Log in to GitHub and locate the GitHub Repository</li>
+<li>2.  Under the repository name, click "Clone or download".</li>
+<li>3.  To clone the repository using HTTPS, under "Clone with HTTPS", copy the link</li>
+<li>4.  Open Git Bash</li>
+<li>5.  Change the current working directory to the location where you want the cloned directory to be made.</li>
+<li>6.  Type git clone, and then paste the URL you copied in Step 3.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY</li>
 
-
-
+<li>7.  Press Enter. Your local clone will be created. </li>
+<ul>$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY </ul>
+<ul>> Cloning into `CI-Clone`... </ul>
+<ul>> remote: Counting objects: 10, done. </ul>
+<ul>> remote: Compressing objects: 100% (8/8), done. </ul>
+<ul>> remove: Total 10 (delta 1), reused 10 (delta 1)</ul>
+<ul>> Unpacking objects: 100% (10/10), done.</ul>
 
