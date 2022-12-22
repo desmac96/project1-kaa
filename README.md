@@ -88,7 +88,7 @@ Imagery is important. The large, background hero image is designed to be strikin
 Google fonts were used to import the 'Rubik' and 'Karla' fonts into the style.css file which is used on all pages throughout the project. </li>
 <li>Font Awesome:
 Font Awesome was used throughout the website to add icons for aesthetic and UX purposes. </li>
-<li>Git
+<li>Git:
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.</li>
 <li>GitHub:
 GitHub is used to store the projects code after being pushed from Git.</li>
